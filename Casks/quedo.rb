@@ -1,6 +1,6 @@
 cask "quedo" do
-  version "0.1.38"
-  sha256 "7d2b58f1d886859c1ab7fdfac3f9503e0eb58d50bf5b787df6fc87162c640fbb"
+  version "0.1.39"
+  sha256 "7e330e56b83859eda19742fa8b5d90caee6c28fa913c15ad1e6b99be04edc349"
 
   url "https://github.com/Futhark-AS/quedo/releases/download/v#{version}/Quedo.dmg",
       verified: "github.com/Futhark-AS/quedo/"
